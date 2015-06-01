@@ -1,5 +1,18 @@
 Given a list of addresses, for example:
 
+Company,Address
+A,"1 NE 1 Street Miami,FL 33132"
+B,"1 1st Street Miami,FL 33132"
+C,"1 NE 1st St Miami,FL 33132"
+D,"1 1st Street Miami,FL 33134"
+E,"100 Biscayne Blvd. Miami,FL 33132"
+F,"100 Biscayne Blvd Miami ,FL 33132"
+G,"100 Biscayne Boulevard Suite 604 Miami,FL 33132"
+H,"100 Biscayne Blvd. Suite 604 Miami,FL 33132"
+I,"100 N. Biscayne Blvd. Miami,FL 33132"
 
 
-
+Create a consistent naming convention and write a function in your 
+preferred scripting language (e.g. Python, R) that converts convert 
+the addresses into this consistent format. Please provide us with 
+both the scripts and the standardized addresses it produces.

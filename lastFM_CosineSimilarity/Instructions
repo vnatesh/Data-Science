@@ -1,7 +1,7 @@
 Goal: Construct a data set that relates Last.fm tags to each other, revealing 
 which genres (and other tags) are most associated.
 
-Details: Using the Last.fm API, collect the top tags among a large set of popular 
+Details: Using the Last.fm REST API, collect the top tags among a large set of popular 
 artists (1000 or more). This data should be structured and stored in whatever 
 format you deem most efficient. From this raw data, create a metric that 
 compares how strongly associated the tags are to each other. Feel free to 
